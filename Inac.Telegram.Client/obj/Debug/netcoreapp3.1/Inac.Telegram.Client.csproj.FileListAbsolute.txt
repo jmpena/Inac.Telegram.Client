@@ -1,0 +1,16 @@
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\Inac.Telegram.Client.exe
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\Inac.Telegram.Client.deps.json
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\Inac.Telegram.Client.runtimeconfig.json
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\Inac.Telegram.Client.runtimeconfig.dev.json
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\Inac.Telegram.Client.dll
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\Inac.Telegram.Client.pdb
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.csprojAssemblyReference.cache
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.AssemblyInfoInputs.cache
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.AssemblyInfo.cs
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.csproj.CoreCompileInputs.cache
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.dll
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.pdb
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.genruntimeconfig.cache
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\TLSchema.dll
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\bin\Debug\netcoreapp3.1\TLSharp.dll
+C:\Users\penaj\source\repos\Inac.Telegram.Client\Inac.Telegram.Client\obj\Debug\netcoreapp3.1\Inac.Telegram.Client.csproj.CopyComplete

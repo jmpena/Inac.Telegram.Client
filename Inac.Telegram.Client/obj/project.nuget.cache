@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TTbj3A5YDEncXJ0tOj2CsL8YTyxMFsrxR8+yWL8/+FieO0vrSECTxnPqV7oTP0ca8ydkmcO9F/s+02f7/wV8sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penaj\\source\\repos\\Inac.Telegram.Client\\Inac.Telegram.Client\\Inac.Telegram.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penaj\\.nuget\\packages\\tlschema\\1.1.0\\tlschema.1.1.0.nupkg.sha512",
+    "C:\\Users\\penaj\\.nuget\\packages\\tlsharp.core\\1.1.0\\tlsharp.core.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
